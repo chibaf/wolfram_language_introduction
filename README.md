@@ -1,6 +1,5 @@
 # wolfram_language_introduction
-short introduction to wolfram language
-
+short introduction to wolfram language written in japanese
 
 how to use wolfram language on jupyter notebook
 
