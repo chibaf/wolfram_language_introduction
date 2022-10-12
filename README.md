@@ -12,3 +12,6 @@ Project Jupyter | Installing Jupyter https://jupyter.org/install
 
 WolframResearch/WolframLanguageForJupyter: Wolfram Language kernel for Jupyter notebooks https://github.com/WolframResearch/WolframLanguageForJupyter
 
+# introduction written with jupyter notebook
+
+introduction_to_wolfram_language_on_jupyter_notebook.ipynb, in japanese
