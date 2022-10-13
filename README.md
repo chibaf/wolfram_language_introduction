@@ -28,4 +28,4 @@ WolframResearch/WolframLanguageForJupyter: Wolfram Language kernel for Jupyter n
 
 # wolfram language入門 on Jupyter Notebook
 
-introduction_to_wolfram_language_on_jupyter_notebook.ipynb
+introduction_to_wolfram_language_on_jupyter_notebook.ipynb (日本語)
